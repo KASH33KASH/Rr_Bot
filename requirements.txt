@@ -1,0 +1,4 @@
+pyautogui
+selenium
+webdriver_manager
+fake_useragen
